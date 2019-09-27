@@ -1,11 +1,14 @@
 # Inicio
 
-## Getting Super Powers
+## **Presentaciones sobre Ingeniería**
 
-Becoming a super hero is a fairly straight forward process:
+Debemos tener presente el siguiente código
 
-```
-$ give me super-powers
+#### Para iniciar
+
+```r
+variable1<- c(1,2,3,4)
+
 ```
 
 {% hint style="info" %}
